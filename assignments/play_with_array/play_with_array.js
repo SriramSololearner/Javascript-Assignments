@@ -5,8 +5,9 @@ function getEven(arr) {
             Input: [1,4,5,77,8,90]
             Output: [4,8,90]
 
-        Write you code below
-    */
+        Write you code below */
+
+    
 
 }
 

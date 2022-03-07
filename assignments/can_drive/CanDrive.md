@@ -3,13 +3,13 @@
 ## Given set of three inputs, you should determine if you should be allowed to drive or not
 
 Factors to check (inputs provided are in the same order)
-* You have driving liscence
+* You have driving license
 * You are tired
 * You are sober
 
-You should only be allowed to drive when you have diriving liscence, when you are not tired and when you are sober
+You should only be allowed to drive when you have driving license, when you are not tired and when you are sober
 
-If you don't have liscence - the result should be "You cannot drive"
+If you don't have license - the result should be "You cannot drive"
 
 Otherwise
 

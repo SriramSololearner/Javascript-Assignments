@@ -3,6 +3,12 @@
 		{
 			"name": "Javascript-Assignments",
 			"path": "..\\.."
+		},
+		{
+			"path": "..\\..\\..\\..\\..\\vs\\python"
+		},
+		{
+			"path": "..\\..\\..\\..\\..\\vs\\javascript Basics"
 		}
 	],
 	"settings": {}
