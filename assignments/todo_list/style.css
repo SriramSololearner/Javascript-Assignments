@@ -1,0 +1,16 @@
+#todoInput {
+    padding:10px;
+    border-radius: 10px;
+    font-size:15px;
+    color:blue;
+    
+}
+#addTodo{
+    padding:10px 20px 10px 10px;
+    border-radius:10px;
+    margin-left:20px;
+    font-size: 20px;
+    color:white;
+    background-color: blue;
+    border:none;
+}
