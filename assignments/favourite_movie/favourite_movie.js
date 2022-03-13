@@ -1,14 +1,14 @@
-const movies = [];
+const movies = [];  // movies ==> []
 
-function favouriteMovie(operation, movie) {
-    // Write your code here
-    if (operation == "add"){
-        movies.push(movie)
+function favouriteMovie(operation, movie) {  // operation ==> add, movie ==> stranger things
+    // Write your code here     
+    if(operation === "add") {   // true
+        movies.push(movie);     // movie  ==> movies ==["stranger things"]
     }
-    if(operation == "remove"){
-        movies.pop();
+    if(operation === "remove"){  // false
+        movie.pop();
     }
-    return movies
+    return movies 
 }
 
 module.exports = favouriteMovie;
