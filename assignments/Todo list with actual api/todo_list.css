@@ -1,0 +1,52 @@
+.display{
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.title{
+    display:flex;
+    justify-content: center;
+    color:rgb(26, 223, 26);
+    margin-top: 100px;
+}
+.title_link{
+    text-decoration: none;
+}
+
+.title_link:hover{
+    color:brown;
+}
+
+#btn{
+    display: flex;
+    justify-content: space-evenly;
+}
+#completed_todo{
+    background-color: black;
+    color:rgb(245, 245, 250);
+    padding:15px;
+    border-radius: 15px;
+    border:none;
+}
+
+#completed_todo:hover{
+    background-color: rgb(19, 229, 236);
+    color: white;
+    cursor: pointer;
+    transition: 1s ease-in;
+}
+
+#pending_todo{
+    background-color: black;
+    color:rgb(245, 245, 250);
+    padding:15px;
+    border-radius: 15px;
+    border:none;
+}
+
+#pending_todo:hover{
+    background-color: rgb(19, 236, 236);
+    color: rgb(40, 23, 189);
+    cursor: pointer;
+    transition: 1s ease-in;
+}
